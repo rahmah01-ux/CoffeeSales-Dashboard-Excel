@@ -1,4 +1,4 @@
-<h1 align="center"> ☕ Coffee Sales Performance Dashboard 📊</h1>
+<h1 align="center"> ☕Coffee Sales Dashboard </h1>
 
 This project demonstrates the process of building a fully interactive **Excel Dashboard** from sales data.  
 The dashboard provides insights into sales performance across time, product types, customer loyalty, and geography. 
@@ -36,7 +36,7 @@ The dashboard answers key business questions such as:
  ## 📊 Final Dashboard
 📌 ![Dashboard Preview](https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00)  
 
-## 💡 Key Learnings
+## 💡 Key Learnings 📊
 - Building dashboards iteratively (step by step) improves both **accuracy** and **design**.  
 - Pivot tables and slicers make Excel dashboards **scalable** and **interactive**.  
 - Using structured references (tables) ensures formulas adapt when new data is added.
