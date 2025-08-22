@@ -1,4 +1,4 @@
-<h1 align="center"> ☕ Excel Dashboard Projects 📊</h1>
+<h1 align="center"> ☕ Coffee Sales Performance Dashboard 📊</h1>
 
 This project demonstrates the process of building a fully interactive **Excel Dashboard** from sales data.  
 The dashboard provides insights into sales performance across time, product types, customer loyalty, and geography. 
