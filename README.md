@@ -30,8 +30,7 @@ The dashboard answers key business questions such as:
   - Dashboard layout and formatting
 
  ## 📊 Final Dashboard
-📌 ![Dashboard Preview](<img width="1260" height="603" alt="Screenshot 2025-08-22 at 12 02 51" src="https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00" />
-)  
+📌 ![Dashboard Preview](https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00)  
 
 
 
