@@ -10,7 +10,11 @@ The dashboard answers key business questions such as:
 - Do customers with a **loyalty card** spend more?
 - Which **countries** generate the most sales?
 - Who are the **Top 5 customers** by sales?
-
+- 
+## 🚀 How to Use
+1. Download the file: [`Coffee Orders Dashboard | Excel.xlsx`]  
+2. Open in Excel (desktop version recommended for full interactivity).  
+3. Use slicers and filters to explore the data.  
 
 ## 🛠 Skills Demonstrated
 - **Data Cleaning & Preparation**
@@ -37,10 +41,6 @@ The dashboard answers key business questions such as:
 - Pivot tables and slicers make Excel dashboards **scalable** and **interactive**.  
 - Using structured references (tables) ensures formulas adapt when new data is added.
 
-## 📂 Files in this Repo
-- `Coffee Orders Dashboard | Excel.xlsx` –  completed interactive dashboard  
-- `raw dataset coffeeOrdersData .xlsx` – original dataset  
-- `![Dashboard Preview](https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00) ` – dashboard screenshots  
 
 
 
