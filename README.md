@@ -32,6 +32,16 @@ The dashboard answers key business questions such as:
  ## 📊 Final Dashboard
 📌 ![Dashboard Preview](https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00)  
 
+## 💡 Key Learnings
+- Building dashboards iteratively (step by step) improves both **accuracy** and **design**.  
+- Pivot tables and slicers make Excel dashboards **scalable** and **interactive**.  
+- Using structured references (tables) ensures formulas adapt when new data is added.
+
+## 📂 Files in this Repo
+- `Coffee Orders Dashboard | Excel.xlsx` –  completed interactive dashboard  
+- `raw dataset coffeeOrdersData .xlsx` – original dataset  
+- `![Dashboard Preview](https://github.com/user-attachments/assets/9b8e5b6e-15a5-4710-a3f9-d8196c0fee00) ` – dashboard screenshots  
+
 
 
 
