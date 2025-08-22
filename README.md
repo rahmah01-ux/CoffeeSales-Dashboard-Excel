@@ -1,4 +1,4 @@
-# ☕ Excel Coffee Sales Dashboard
+##                                                 ☕ Excel Coffee Sales Dashboard
 
 This project demonstrates the process of building a fully interactive **Excel Dashboard** from sales data.  
 The dashboard provides insights into sales performance across time, product types, customer loyalty, and geography. 
